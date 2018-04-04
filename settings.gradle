@@ -1,0 +1,6 @@
+rootProject.name = 'barclay-spring'
+include 'barclay-test'
+include 'barclay-controller'
+include 'barclay-service'
+include 'barclay-model'
+

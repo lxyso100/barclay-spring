@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-controller.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-controller.iml" group="barclay-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-controller/barclay-controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-controller/barclay-controller_main.iml" group="barclay-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-controller/barclay-controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-controller/barclay-controller_test.iml" group="barclay-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-model.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-model.iml" group="barclay-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-model/barclay-model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-model/barclay-model_main.iml" group="barclay-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-model/barclay-model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-model/barclay-model_test.iml" group="barclay-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-service.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-service.iml" group="barclay-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-service/barclay-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-service/barclay-service_main.iml" group="barclay-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-service/barclay-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-service/barclay-service_test.iml" group="barclay-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-spring_main.iml" group="barclay-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-spring_test.iml" group="barclay-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-test.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-test.iml" group="barclay-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-test/barclay-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-test/barclay-test_main.iml" group="barclay-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barclay-test/barclay-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/barclay-test/barclay-test_test.iml" group="barclay-test" />
+    </modules>
+  </component>
+</project>

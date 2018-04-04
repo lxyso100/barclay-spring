@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="barcaly-config_main" target="1.8" />
+      <module name="barcaly-config_test" target="1.8" />
+      <module name="barclay-controller_main" target="1.8" />
+      <module name="barclay-controller_test" target="1.8" />
+      <module name="barclay-model_main" target="1.8" />
+      <module name="barclay-model_test" target="1.8" />
+      <module name="barclay-service_main" target="1.8" />
+      <module name="barclay-service_test" target="1.8" />
+      <module name="barclay-spring_main" target="1.8" />
+      <module name="barclay-spring_test" target="1.8" />
+      <module name="barclay-test_main" target="1.8" />
+      <module name="barclay-test_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

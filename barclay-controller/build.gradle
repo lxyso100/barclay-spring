@@ -1,0 +1,15 @@
+group 'com.barclay'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'war'
+
+sourceCompatibility = 1.8
+
+dependencies {
+    compile project(":barclay-service")
+    compile "org.springframework:spring-web:${springBootVersion}"
+    compile "org.springframework:spring-webmvc:${springBootVersion}"
+    compile "javax.servlet:jstl:${jstlVersion}"
+    compile "taglibs:standard:${taglibsVersion}"
+    compile group: 'org.freemarker', name: 'freemarker', version: '2.3.27-incubating'
+}
